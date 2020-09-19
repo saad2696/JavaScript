@@ -8,3 +8,4 @@ var car = {
 
 }
 var shopping = ['apple','mangos','oranges','banana','orange'];
+console.log("ok")
